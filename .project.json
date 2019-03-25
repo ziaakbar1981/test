@@ -1,0 +1,14 @@
+{
+  "hcpdeploy": {
+    "name": "nwepmrefappsstoverview",
+  	"account": "fiori",
+	"entryPath": "webapp"        
+  },
+  "mockpreview": {
+    "mockUri": "/sap/opu/odata/sap/SEPMRA_OVW/",
+    "metadataFilePath": "localService/mockdata/metadata.xml",
+    "loadJSONFiles": false,
+    "loadCustomRequests": false,
+    "mockRequestsFilePath": ""
+  }
+}
